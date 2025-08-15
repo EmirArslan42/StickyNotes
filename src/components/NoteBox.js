@@ -38,6 +38,7 @@ const NoteBox = () => {
     };
     setNotes([...notes, currentNote]);
     setBoxVisible(false);
+    setMode(true);
   };
   const changeColor = (e) => {
     setColor(e.target.value);

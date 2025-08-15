@@ -39,9 +39,6 @@ body{
 .editable {
   cursor: crosshair;
 }
-/* .note {
-  transform: translateY(40px) translateX(-50%);
-} */
 .note-box {
   transform: translateY(40px) translateX(-50%);
 }
